@@ -1,4 +1,4 @@
-//Node.js - Javascript
+//Javascript
 
 var count = 0;
 
