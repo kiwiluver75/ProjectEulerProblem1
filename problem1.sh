@@ -1,8 +1,7 @@
 #!/bin/bash
 
 
-sum = 0; 
-i = 0;
+sum = 0; i = 0;
 
 while [$i -lt 1000];
 
